@@ -23,7 +23,7 @@ Game Character
 
 Game mechanics and operating 
 
-Player actor moving left and right with AD
+Player actor moving left and right with AD. He can turn right or left when the player located in the corner.
 
 SPACE to jump. Long press to jump higher. 
 
@@ -38,7 +38,7 @@ Display show the score and number of levels.
 
 Level Design
 
-Floo is generated randomly, starting from the first floor, at the beginning, and then every floor has rings or obstacles, after 6/7 floors with spaces or corners will be generated .
+Floor is generated randomly, starting from the first floor, at the begining, and then every floor has rings or obstacles, after 6/7 floors with spaces or corners will be generated .
 
 Balance
 
